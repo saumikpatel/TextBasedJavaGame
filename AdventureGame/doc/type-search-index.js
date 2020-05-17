@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Attack"},{"p":"<Unnamed>","l":"Die"},{"p":"<Unnamed>","l":"Eastzone"},{"p":"<Unnamed>","l":"MainClass"},{"p":"<Unnamed>","l":"Northwall"},{"p":"<Unnamed>","l":"Player"},{"p":"<Unnamed>","l":"Westmount"}]
